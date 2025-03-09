@@ -1,15 +1,35 @@
-# Frontend Mentor - Solução de componente de código QR
+<h1 align="center"> Frontend Mentor - Solução de componente de código QR </h1>
 
-Esta é uma solução para o [desafio de componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+<p align="center">
+Desafio FrontEnd Mentor - Solução de componente de código QR <br/>
+<a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Acesse aqui!</a>
+</p>
 
+<img 
 
-# Frontend Mentor - Solução de componente de código QR
-- HTML5 Semântico
-- CSS3
-- Flexbox
-- CSS Grid
-- Mobile-first 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- Frontend Mentor - [@JanainaMmeira](https://www.frontendmentor.io/profile/JanainaMmeira
+<br>
 
+<p align="center">
+  <img alt="projeto Qr code" src=".github/preview.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+- Figma
+
+## 💻 Projeto Janaína
